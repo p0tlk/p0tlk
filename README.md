@@ -20,7 +20,7 @@
 
 <a href="https://symfony.com/">
   <img
-    src="https://logo.svgcdn.com/l/symfony.svg"
+    src="https://www.svgrepo.com/show/306827/symfony.svg"
     height="48"
     align="right"
     hspace="6"
