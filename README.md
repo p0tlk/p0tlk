@@ -28,12 +28,12 @@
   />
 </a>
 
-<img
+<!-- <img
   src="https://cdn.crashbandicootwiki.com/thumb/1/1c/Crystal_CWarped_model.png/100px-Crystal_CWarped_model.png"
   height="48"
   align="right"
   hspace="6"
   alt="Crystal"
-/>
+/> -->
 
 <br clear="both" />
