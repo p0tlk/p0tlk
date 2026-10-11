@@ -18,7 +18,7 @@
   />
 </a>
 
-<a href="https://symfony.com/">
+<!-- <a href="https://symfony.com/">
   <img
     src="https://www.svgrepo.com/show/306827/symfony.svg"
     height="48"
@@ -28,7 +28,7 @@
   />
 </a>
 
-<!-- <img
+<img
   src="https://cdn.crashbandicootwiki.com/thumb/1/1c/Crystal_CWarped_model.png/100px-Crystal_CWarped_model.png"
   height="48"
   align="right"
